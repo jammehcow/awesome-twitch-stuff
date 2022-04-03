@@ -4,6 +4,7 @@ A list of awesome Twitch/streaming-related tools
 ## Categories
  - [Broadcasting Tools](#broadcasting-tools)
  - [Chat Applications](#chat-applications)
+ - [Channel Management](#channel-management)
  - [Chat Bots](#chat-bots)
  - [Command Integrations](#command-integrations)
  - [Emote Tools](#emote-tools)
@@ -22,6 +23,10 @@ A list of awesome Twitch/streaming-related tools
 
  - [vdo.ninja](https://vdo.ninja) - Bring live video from your smartphone, remote computer, or friends directly into OBS or other studio software
 
+### Channel Management
+
+ - [CommanderRoot's Twitch Tools](https://twitch-tools.rootonline.de) - mass block, ban, get lists of subscribers, and other misc tools
+
 ### Chat Bots
 
  - [Fossabot](https://fossabot.com) - a Twitch chat bot that has all the features you need to create the ultimate chat experience for yourself and your audience
@@ -36,6 +41,7 @@ A list of awesome Twitch/streaming-related tools
 ### Emote Tools
 
  - [Levi506's Emote Tester](https://levi506.net/emote-tester) - test emotes for scaling/contrast issues before they're uploaded
+ - [tma02's Twitch Emote Resizer](https://tma02.github.io/twitch-emote-resizer/) - resize emotes & badges to suit 1x, 2x, and 3x sizes
 
 ### Emotes
 
